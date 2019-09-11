@@ -2,7 +2,6 @@ package com.auth0.stavros.kotlinspringboot.controller
 
 import com.auth0.stavros.kotlinspringboot.model.Customer
 import com.auth0.stavros.kotlinspringboot.repository.CustomerRepo
-import org.springframework.data.repository.CrudRepository
 import org.springframework.web.bind.annotation.*
 
 @RestController
